@@ -123,3 +123,5 @@ To grow as a **software, AI/ML, and data-focused developer** by strengthening fu
 <p align="center">
   <sub>Learning by building · Improving through practice · Sharing through code</sub>
 </p>
+
+<!-- Profile update 2 -->
